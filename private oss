@@ -1,0 +1,12 @@
+print fruits in 2 dimensional string by involve array
+#include<stdio.h>
+#include<string.h>
+int main();{
+int i;
+char fruit[4][5]={ "black", "blame", "potat"};
+printf("string name %s\n");
+for(i=0;i<5;i++){
+printf("fruit[i]=%s/n");
+} return 0;
+}
+
